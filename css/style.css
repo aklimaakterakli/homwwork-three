@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color:tomato;
+}
+.arif{
+    color:blue;
+}
+.boxone{
+    height: 150px;
+    width: 150px;
+    background-color: teal;
+}
+.boxtwo{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(128, 47, 0);
+}
+.masterbox{
+    display: flex;
+    justify-content: center;
+}
+.masterboxone{
+    display: flex;
+    justify-content: space-between;
+}
+.masterboxtwo{
+    display: flex;
+    justify-content: space-around;
+}
+.boxthree{
+    height: 300px;
+    width: 300px;
+    background-color: teal;
+    margin: 100px 80px 70px 50px;
+}
+.boxthree h3{
+    padding-top: 100px;
+    text-align: center;
+}
